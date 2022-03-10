@@ -1,3 +1,4 @@
+//Work in progess
 //Exercise 1 Create a function to calculate the sum of the two given integers. If the two values are the same, return triple their sum.
 const total = function(a, b) {
   if (a == b) {
